@@ -1,2 +1,2 @@
-# random-str-msg-jo
+# Random String Message
 A random NPM package
