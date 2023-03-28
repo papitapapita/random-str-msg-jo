@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 let random = require('../src/index.js');
 
-randome.funnyCommit();
+random.funnyCommit();
