@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/papitapapita/random-str-msg-jo/issues"
   },
-  "homepage": "https://github.com/papitapapita/random-str-msg-jo#readme"
+  "homepage": "https://github.com/papitapapita/random-str-msg-jo#readme",
+  "bin": {
+    "random-str-msg-jo": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
